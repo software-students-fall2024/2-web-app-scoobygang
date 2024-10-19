@@ -2,7 +2,9 @@
 
 ## Product vision statement
 
-Our product aims to help individuals keep track of their daily events, by helping your organize which events to prioritize by time!
+
+Our app is a to-do list app that helps the user organize and keep track of their goals for a day/week/month. It includes crucial fields like date, time, requirements and name of the task or event.
+
 
 ## User stories
 
